@@ -26,6 +26,7 @@ git clone https://github.com/Rohan-Korake/Hotel-Billing-System-Using-Python.git
 
 ## 👨‍💻 Developed By
 
+- 🙍‍♂️ Name : Korake Rohan
 - 📧 Email : rohannkorake@gmail.com
 - 📂 GitHub : https://github.com/Rohan-Korake
 - 🔗 Linkedin : https://www.linkedin.com/in/rohan-korake-720848342
